@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Recetario>
+<Receta id="1">
+    <nombre> Cocina peruana</nombre>
+    <categoria>Cocina</categoria>
+    <tiempo>40</tiempo>
+    <dificultad>Medio</dificultad>
+</Receta>
+<Receta id="2">
+<nombre> Cocina española</nombre>
+<categoria>Cocina</categoria>
+<tiempo>60</tiempo>
+<dificultad>Fácil</dificultad>
+</Receta>
+<Receta id="3">
+<nombre> Cocina colombiana</nombre>
+<categoria>Cocina</categoria>
+<tiempo>50</tiempo>
+<dificultad>Difícil</dificultad>
+</Receta>
+</Recetario>
