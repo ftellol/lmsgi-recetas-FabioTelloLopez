@@ -2,19 +2,19 @@
 <Recetario>
 <Receta codigo="1">
     <nombre> Cocina peruana</nombre>
-    <categoria>Cocina</categoria>
+    <categoria>Postre</categoria>
     <tiempo>40</tiempo>
     <dificultad>Medio</dificultad>
 </Receta>
 <Receta codigo="2">
 <nombre> Cocina española</nombre>
-<categoria>Cocina</categoria>
+<categoria>Entrante</categoria>
 <tiempo>60</tiempo>
 <dificultad>Fácil</dificultad>
 </Receta>
 <Receta codigo="3">
 <nombre> Cocina colombiana</nombre>
-<categoria>Cocina</categoria>
+<categoria>Principal</categoria>
 <tiempo>50</tiempo>
 <dificultad>Difícil</dificultad>
 </Receta>

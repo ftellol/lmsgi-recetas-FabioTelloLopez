@@ -1,12 +1,11 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="videojuego">
+    <xs:element name="Recetario">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="titulo"  type="xs:string"/>
-                <xs:element name="estudio" type="xs:string"/>
-                <xs:element name="genero"  type="xs:string"/>
-                <xs:element name="pegi"    type="xs:integer"/>
-                <xs:element name="arte"    type="xs:string"/>
+                <xs:element name="nombre"  type="xs:string"/>
+                <xs:element name="categoria" type="xs:string"/>
+                <xs:element name="tiempo"  type="xs:string"/>
+                <xs:element name="dificultad"    type="xs:integer"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
