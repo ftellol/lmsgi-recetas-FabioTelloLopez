@@ -1,5 +1,5 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="Recetario">
+    <xs:element name="recetario">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="nombre"  type="xs:string"/>
