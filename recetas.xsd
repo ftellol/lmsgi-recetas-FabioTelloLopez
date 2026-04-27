@@ -2,6 +2,7 @@
     <xs:element name="recetario">
         <xs:complexType>
             <xs:sequence>
+                <xs:element name="codigo" type="xs:string"/>
                 <xs:element name="nombre"  type="xs:string"/>
                 <xs:element name="categoria" type="xs:string"/>
                 <xs:element name="tiempo"  type="xs:string"/>
