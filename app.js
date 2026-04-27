@@ -16,5 +16,10 @@ function xmlAJson(xml) {
     }))
 }
 
+/*
 function pintarJSON (xmlAJson) {
+ const pintar = J
+
 }
+*/
+

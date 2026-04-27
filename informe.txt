@@ -1,8 +1,9 @@
 -- Herramientas utilizadas para crear y validar el XSD --
-El XSD es el validador de XML, aqui podremos insertar lo que queremos que nos devuelva el xml en si.
+Utilizo un documento XSD donde he creado el XSD.
+Dentro del XSD van todas las validaciones que no quieres que pasen por alto del XML. Como por ejemplo el que minutos sea un numero es decir un int.
 
 -- Evidencia de que el XML valida correctamente contra el XSD --
 
 
 -- Para qué sirve DOMParser y en qué se diferencia a trabajar con JSON --
-Una diferencia entre trabajar con JSON Y XML es que XML es mas robusto y un poco más confuso, por eso necesita un parseador. DOMParser lo que va a hacer es convertir el XML en algo que la maquina entienda. Con Json la diferencia es que es la maquina lo entiende directamente y no necesita de ningun parser para hacer esta función
+Una diferencia entre trabajar con JSON Y XML es que XML es mas robusto y un poco más confuso, por eso necesita un parseador. DOMParser lo que va a hacer es convertir el XML en algo que la maquina entienda. Con Json la diferencia es que es la maquina lo entiende directamente y no necesita de ningun parser para hacer esta función.

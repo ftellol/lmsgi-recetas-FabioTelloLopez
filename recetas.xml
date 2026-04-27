@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <recetario>
-<receta codigo="1">
+<receta>
+    <codigo>1</codigo>
     <nombre> Cocina peruana</nombre>
     <categoria>Postre</categoria>
     <tiempo>40</tiempo>
     <dificultad>Medio</dificultad>
 </receta>
-<receta codigo="2">
+<receta>
+<codigo>2</codigo>
 <nombre> Cocina española</nombre>
 <categoria>Entrante</categoria>
 <tiempo>60</tiempo>
 <dificultad>Fácil</dificultad>
 </receta>
-<receta codigo="3">
+<receta>
+<codigo>3</codigo>
 <nombre> Cocina colombiana</nombre>
 <categoria>Principal</categoria>
 <tiempo>50</tiempo>
